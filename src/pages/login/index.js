@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom'
 import { Button, Input } from 'antd'
 import imgLogo from './logo.png'
-import './login.styl'
+import './login.less'
 
 function Login() {
     // 创建路由钩子

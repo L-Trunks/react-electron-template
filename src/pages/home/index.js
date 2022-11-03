@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom'
 import { Button } from 'antd'
 import { goto } from '@/api'
-import './home.styl'
+import './home.less'
 
 const { ipcRenderer } = window.electron
 

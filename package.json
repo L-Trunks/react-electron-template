@@ -1,17 +1,16 @@
 {
-  "name": "electron-cra5",
+  "name": "react-electron-template",
   "version": "0.1.0",
   "private": true,
   "main": "./src/main.js",
   "homepage": "./",
   "author": {
-    "name": "兔子先生",
-    "email": "your.email@domain.com",
-    "url": "https://your-website.com"
+    "name": ""
+
   },
   "build": {
     "appId": "com.my-website.my-app",
-    "productName": "electron-cra5",
+    "productName": "react-electron-template",
     "copyright": "Copyright © 2022 ${author}",
     "mac": {
       "category": "public.app-category.utilities",
